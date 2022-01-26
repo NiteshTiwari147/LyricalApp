@@ -1,2 +1,2 @@
 # Lyrical-GraphQL
-Starter project from a GraphQL course on Udemy.com
+A started project to showcase songslist and respective lyrics
